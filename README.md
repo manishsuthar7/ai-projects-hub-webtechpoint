@@ -9,7 +9,7 @@ Building AI projects daily using Next.js + OpenAI API.
 ### 1️⃣ AI Notes Generator
 Generate smart notes from long text using AI.
 
-👉 [View Project](https://github.com/yourusername/ai-notes-generator)
+👉 [View Project](https://github.com/manishsuthar7/AI-Notes-Generator.git)
 
 ---
 
