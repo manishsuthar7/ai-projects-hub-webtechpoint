@@ -1,4 +1,4 @@
-# 🚀 100 Days of AI Projects
+# 🚀 Building AI projects every day for college students.
 
 Building AI projects daily using Next.js + OpenAI API.
 
