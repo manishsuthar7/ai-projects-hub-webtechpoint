@@ -20,10 +20,7 @@ Summarize any article in seconds.
 
 ---
 
-## ⚡ Week 2 (Medium)
-
-### 3️⃣ AI Quiz Generator
-Generate quizzes from any topic.
+### 3️⃣ Coming Soon...
 
 👉 [View Project](coming Soon...)
 
