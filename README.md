@@ -16,7 +16,7 @@ Generate smart notes from long text using AI.
 ### 2️⃣ AI Text Summarizer
 Summarize any article in seconds.
 
-👉 [View Project](https://github.com/yourusername/ai-text-summarizer)
+👉 [View Project](https://github.com/manishsuthar7/AI-Text-Summarizer.git)
 
 ---
 
