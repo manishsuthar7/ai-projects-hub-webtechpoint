@@ -20,7 +20,12 @@ Summarize any article in seconds.
 
 ---
 
-### 3️⃣ Coming Soon...
+### 3️⃣ Ai-Resume-Reviewer
+
+👉 [View Project](https://github.com/manishsuthar7/Ai-Resume-Reviewer.git))
+
+---
+### 4️⃣ Coming Soon...
 
 👉 [View Project](coming Soon...)
 
