@@ -30,9 +30,14 @@ Summarize any article in seconds.
 👉 [View Project](https://github.com/manishsuthar7/Ai-email-writer.git)
 
 ---
-### 5️⃣ Coming Soon...
+### 5️⃣ AI Code Explanier
 
-👉 [View Project]()
+👉 [View Project](https://github.com/manishsuthar7/AI-Code-Explanier.git)
+
+---
+### 6️⃣ Coming Soon...
+
+👉 [Coming soon...]()
 
 ---
 ## 🚀 Tech Stack
