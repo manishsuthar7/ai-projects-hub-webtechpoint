@@ -20,17 +20,21 @@ Summarize any article in seconds.
 
 ---
 
-### 3️⃣ Ai Resume Reviewer
+### 3️⃣ AI Resume Reviewer
 
 👉 [View Project](https://github.com/manishsuthar7/Ai-Resume-Reviewer.git))
 
 ---
-### 4️⃣ Coming Soon...
+### 4️⃣ AI Email Writer 
 
 👉 [View Project](https://github.com/manishsuthar7/Ai-email-writer.git)
 
 ---
+### 5️⃣ Coming Soon...
 
+👉 [View Project]()
+
+---
 ## 🚀 Tech Stack
 
 - Next.js
