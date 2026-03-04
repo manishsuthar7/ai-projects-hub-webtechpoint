@@ -35,9 +35,14 @@ Summarize any article in seconds.
 👉 [View Project](https://github.com/manishsuthar7/AI-Code-Explanier.git)
 
 ---
-### 6️⃣ Coming Soon...
+### 6️⃣ AI WhatsApp College Assistant
 
-👉 [Coming soon...]()
+👉 [View Project](https://github.com/manishsuthar7/AI-WhatsApp-College-Assistant.git)
+
+---
+### 7️⃣ Coming Soon...
+
+👉 Coming soon...
 
 ---
 ## 🚀 Tech Stack
