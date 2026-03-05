@@ -40,7 +40,12 @@ Summarize any article in seconds.
 👉 [View Project](https://github.com/manishsuthar7/AI-WhatsApp-College-Assistant.git)
 
 ---
-### 7️⃣ Coming Soon...
+### 7️⃣ AI-Excuse-Generator
+
+👉 [View Project](https://github.com/manishsuthar7/AI-Excuse-Generator.git)
+
+---
+### 8️⃣ Coming Soon...
 
 👉 Coming soon...
 
